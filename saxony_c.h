@@ -5,7 +5,7 @@
 #include <stdlib.h>
 #define schreibe_ma printf
 #define ganse_zohl int
-#define buchstahm_pungter char*
+#define buchstahm_pungder char*
 #define gibbe_zurigg return
 #define ferdsch EXIT_SUCCESS
 
